@@ -6,7 +6,7 @@ Kibiru Cafe
 珈琲の香りただよう中、人が集い そして 人と人とを繋げる場である「Kibiru Cafe」のWebサイトです。
 
 【キーワード】
-Kibiru Cafe,キビル・カフェ,サードウェーブ,ギャラリースペース
+kibiru Cafe,キビル・カフェ,サードウェーブ,ギャラリースペース
 
 【Google Fonts - Rock Salt - URL】
 https://fonts.googleapis.com/css?family=Rock+Salt
