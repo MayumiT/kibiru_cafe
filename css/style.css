@@ -75,5 +75,12 @@ h1 {
 	width: 960px;
 	height: 450px;
 	margin: 0 auto;
-	
+
 }
+
+#contents{
+	width: 960px;
+	margin: 0 auto;
+	background: #fff;
+}
+
