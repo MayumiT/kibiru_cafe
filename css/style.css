@@ -84,3 +84,16 @@ h1 {
 	background: #fff;
 }
 
+h2{
+	font-family: 'rock salt', cursive;
+	font-size: 250%;
+	text-align: center;
+	padding: 40px 0;
+}
+
+#message p{
+	text-align: center;
+	font-size: 90%;
+	line-height: 2;
+}
+
