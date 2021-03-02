@@ -97,3 +97,15 @@ h2{
 	line-height: 2;
 }
 
+#recommend{
+	width: 790px;
+	margin: 40px auto 0;
+}
+
+.recommendBox{
+	width: 250px;
+	text-align: center;
+	font-size: 80%;
+	float: left;
+	
+}
