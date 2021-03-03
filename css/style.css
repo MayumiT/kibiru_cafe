@@ -117,3 +117,42 @@ h2{
 #cafeImg{
 	margin-top: 40px;
 }
+
+#galleryData{
+	width: 880px;
+	margin: 0 auto;
+	padding-bottom: 40px;
+}
+
+#galleryImg{
+	float: left;
+	margin-right: 40px;
+}
+
+#galleryData p{
+	font-size: 90%;
+	line-height: 2;
+}
+
+#sBtn{
+	text-align: right;
+}
+
+#sBtn a{
+	display: inline-block;
+	background: #66c;
+	border-radius: 5px;
+	border: 1px solid #449;
+	text-align: center;
+	padding: 3px 20px;
+	font-size: 80%;
+	color: #fff;
+	text-decoration: none;
+	-webkit-transition: linear o.2s;
+	-o-transition: linear o.2s;
+	transition: linear o.2s;
+}
+
+#sBtn a:hover{
+	background: #88c;
+}
