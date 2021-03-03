@@ -109,3 +109,11 @@ h2{
 	float: left;
 	
 }
+
+.recommendBox p{
+	margin: 20px 0;
+}
+
+#cafeImg{
+	margin-top: 40px;
+}
