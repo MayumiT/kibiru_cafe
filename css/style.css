@@ -204,3 +204,25 @@ footer{
 .sublist li a:hover{
 	color: #999;
 }
+
+h4{
+	text-align: center;
+	font-size: 150%;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+footer p{
+	text-align: center;
+}
+
+#add{
+	font-size: 90%;
+	line-height: 1.5;
+	margin-bottom: 20px;
+}
+
+#copyright{
+	font-size: 80%;
+	padding-bottom: 40px;
+}
